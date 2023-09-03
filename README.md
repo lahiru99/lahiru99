@@ -1,16 +1,17 @@
 ![MastHead](https://github.com/lahiru99/lahiru99/blob/main/BladeRunnerK1croped.jpg)
 
-<h3 align="center">Hi there👋, I'm Lahiru!</h3>
-<p align="center"><img src="https://i.gifer.com/VJl.gif" alt="Meaow" width="50" /></p>
+<h1 align="center">Hi there👋, I'm Lahiru! <img src="https://github.com/lahiru99/lahiru99/blob/main/VJl.gif"  width="50" /></h1>
+<p align="center">I am a passionate software developer based in Melbourne. As a tech enthusiast, I enjoy exploring new technologies and using them to solve real-world problems. In addition to coding, I also have a passion for photography and 3D art.</p>
 
-##
+## 
 
+<h2 align="center">Connect with Me 🤝🏻</h2>
 <p align="center">
-<h3 align="center">Connect with Me 🤝🏻</h3>
-<a href="https://www.linkedin.com/in/lahiru-samarakoon/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="300"></a> 
-<a href="https://www.instagram.com/19zeries/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="340"></a>
-<a href="https://linktr.ee/19Zeries"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="300"></a>
+  <a href="https://www.linkedin.com/in/lahiru-samarakoon/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="300"></a>
+  <a href="https://www.instagram.com/19zeries/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="340"></a>
+  <a href="https://linktr.ee/19Zeries"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="300"></a>
 </p>
+
 
 
 ### Dino 🦖
