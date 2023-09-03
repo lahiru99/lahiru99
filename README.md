@@ -1,22 +1,19 @@
-[![MastHead](https://github.com/lahiru99/lahiru99/blob/main/BladeRunnerK1croped.jpg)
+![MastHead](https://github.com/lahiru99/lahiru99/blob/main/BladeRunnerK1croped.jpg)
 
-
-<div align="center"> Hi there👋 I am Lahiru! <img src="https://i.gifer.com/VJl.gif" alt="Meaow" width="50" /> </div>
-
-
+<h3 align="center">Hi there👋, I'm Lahiru!</h3>
+<p align="center"><img src="https://i.gifer.com/VJl.gif" alt="Meaow" width="50" /></p>
 
 ##
 
-<div align="center">
-Connect with Me 🤝🏻
-[![LinkedIn](https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg)](https://www.linkedin.com/in/lahiru-samarakoon/) [![Instagram](https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg)](https://www.instagram.com/19zeries/) [![LinkTree](https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg)](https://linktr.ee/19Zeries)
+<p align="center">
+Connect with Me 🤝🏻<br>
+<a href="https://www.linkedin.com/in/lahiru-samarakoon/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="40"></a> 
+<a href="https://www.instagram.com/19zeries/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="40"></a>
+<a href="https://linktr.ee/19Zeries"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="40"></a>
+</p>
 
-</div>
-
-
-### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
-
-
+### Dino 🦖
+<img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="50" />
 
 
 
