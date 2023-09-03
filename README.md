@@ -8,7 +8,7 @@
 <p align="center">
 Connect with Me 🤝🏻<br>
 <a href="https://www.linkedin.com/in/lahiru-samarakoon/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="300"></a> 
-<a href="https://www.instagram.com/19zeries/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="300"></a>
+<a href="https://www.instagram.com/19zeries/"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="340"></a>
 <a href="https://linktr.ee/19Zeries"><img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="300"></a>
 </p>
 
