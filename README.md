@@ -15,8 +15,7 @@ Connect with Me 🤝🏻<br>
 ### Dino 🦖
 <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="50" />
 
-
-
+![Dino](https://github.com/lahiru99/lahiru99/blob/main/dino.gif)
 
 
 
