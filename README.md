@@ -33,9 +33,16 @@
 
 ---
 
-## 🌍 My Websites:
-### 🔗 **Portfolio:** [lahirusamarakoon.com](https://www.lahirusamarakoon.com)
-### 📸 **Photography & Creative Work:** [19zeries.com](https://www.19zeries.com)
+## 🌍 My Websites  
+
+<p align="center">
+  <a href="https://www.lahirusamarakoon.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="https://www.19zeries.com" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20Photography%20%26%20Creative%20Work-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white">
+  </a>
+</p>
 
 
 ---
