@@ -21,19 +21,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-samarakoon/" target="_blank">
-    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="180">
+    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/ldn.svg" alt="LinkedIn" width="220" height="60">
   </a>
   <a href="https://www.instagram.com/19zeries/" target="_blank">
-    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="200">
+    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/insta.svg" alt="Instagram" width="220" height="60">
   </a>
   <a href="https://linktr.ee/19Zeries" target="_blank">
-    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="180">
+    <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="220" height="60">
   </a>
 </p>
 
+---
+
 ## 🌍 My Websites:
-- 🖥️ **Portfolio:** [lahirusamarakoon.com](https://www.lahirusamarakoon.com)
-- 📸 **Photography & Creative Work:** [19zeries.com](https://www.19zeries.com)
+### 🔗 **Portfolio:** [lahirusamarakoon.com](https://www.lahirusamarakoon.com)
+### 📸 **Photography & Creative Work:** [19zeries.com](https://www.19zeries.com)
 
 
 ---
