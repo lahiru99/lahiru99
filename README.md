@@ -38,10 +38,10 @@
 
 <p align="center">
   <a href="https://www.lahirusamarakoon.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=black&fontSize=20" width="250">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="https://www.19zeries.com" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20PHOTOGRAPHY%20&%20CREATIVE%20WORK-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white&fontSize=20" width="300">
+    <img src="https://img.shields.io/badge/📸%20PHOTOGRAPHY%20&%20CREATIVE%20WORK-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white">
   </a>
 </p>
 
