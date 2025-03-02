@@ -35,14 +35,16 @@
 
 ## 🌍 My Websites  
 
+
 <p align="center">
   <a href="https://www.lahirusamarakoon.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=black&fontSize=20" width="250">
   </a>
   <a href="https://www.19zeries.com" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20Photography%20%26%20Creative%20Work-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white">
+    <img src="https://img.shields.io/badge/📸%20PHOTOGRAPHY%20&%20CREATIVE%20WORK-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white&fontSize=20" width="300">
   </a>
 </p>
+
 
 
 ---
