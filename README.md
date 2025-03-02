@@ -16,6 +16,19 @@
 - 📸 Check out my **photography & creative work** on [19zeries.com](https://www.19zeries.com)
 
 ---
+## 🌍 My Websites  
+
+<p align="center">
+  <a href="https://www.lahirusamarakoon.com" target="_blank" style="font-size: 22px; font-weight: bold;">
+    🔗 <strong>lahirusamarakoon.com</strong>
+  </a>
+  <br><br>
+  <a href="https://www.19zeries.com" target="_blank" style="font-size: 22px; font-weight: bold;">
+    📸 <strong>19zeries.com</strong>
+  </a>
+</p>
+
+---
 
 ## 🌐 Connect with Me 🤝🏻
 
@@ -28,20 +41,6 @@
   </a>
   <a href="https://linktr.ee/19Zeries" target="_blank">
     <img src="https://github.com/lahiru99/lahiru99/blob/main/soc/linktree.svg" alt="LinkTree" width="220" height="60">
-  </a>
-</p>
-
----
-
-## 🌍 My Websites  
-
-<p align="center">
-  <a href="https://www.lahirusamarakoon.com" target="_blank" style="font-size: 22px; font-weight: bold;">
-    🔗 <strong>lahirusamarakoon.com</strong>
-  </a>
-  <br><br>
-  <a href="https://www.19zeries.com" target="_blank" style="font-size: 22px; font-weight: bold;">
-    📸 <strong>19zeries.com</strong>
   </a>
 </p>
 
