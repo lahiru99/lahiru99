@@ -36,13 +36,14 @@
 ## 🌍 My Websites  
 
 <p align="center">
-  🔗 <a href="https://www.lahirusamarakoon.com" target="_blank"><strong>lahirusamarakoon.com</strong></a>  
-  <br>
-  📸 <a href="https://www.19zeries.com" target="_blank"><strong>19zeries.com</strong></a>
+  <a href="https://www.lahirusamarakoon.com" target="_blank" style="font-size: 22px; font-weight: bold;">
+    🔗 <strong>lahirusamarakoon.com</strong>
+  </a>
+  <br><br>
+  <a href="https://www.19zeries.com" target="_blank" style="font-size: 22px; font-weight: bold;">
+    📸 <strong>19zeries.com</strong>
+  </a>
 </p>
-
-
-
 
 ---
 
