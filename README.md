@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋, I'm Lahiru! <img src="https://github.com/lahiru99/lahiru99/blob/main/VJl.gif" width="50" /></h1>
 
 <p align="center">
-  I am a passionate <b>software developer</b> based in Melbourne. As a tech enthusiast, I enjoy exploring new technologies and using them to solve real-world problems. In addition to coding, I also have a passion for <b>photography</b> and <b>3D art</b>.
+  I am a passionate <b>software developer</b> based in Melbourne. As a tech enthusiast, I enjoy exploring new technologies and using them to solve real-world problems. In addition to coding, I also have a passion for <b>photography</b>, <b>3D art</b> and <b>DJ</b>.
 </p>
 
 ---
