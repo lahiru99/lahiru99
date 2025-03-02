@@ -18,13 +18,13 @@
 ---
 ## 🌍 My Websites  
 
-<p align="center">
-  <a href="https://www.lahirusamarakoon.com" target="_blank" style="font-size: 22px; font-weight: bold;">
-    🔗 <strong>lahirusamarakoon.com</strong>
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  <a href="https://www.lahirusamarakoon.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a>
   <br><br>
-  <a href="https://www.19zeries.com" target="_blank" style="font-size: 22px; font-weight: bold;">
-    📸 <strong>19zeries.com</strong>
+  <a href="https://www.19zeries.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📸%20PHOTOGRAPHY%20&%20CREATIVE%20WORK-FF8800?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white">
   </a>
 </p>
 
